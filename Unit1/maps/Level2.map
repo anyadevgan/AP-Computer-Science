@@ -1,0 +1,152 @@
+<world>
+<properties>
+defaultSize height='25' width='25'/>
+</properties>
+<objects>
+<wall x='1' y='7' length='1' style='vertical'/>
+<wall x='1' y='6' length='1' style='vertical'/>
+<wall x='1' y='5' length='1' style='vertical'/>
+<wall x='1' y='4' length='1' style='vertical'/>
+<wall x='1' y='3' length='1' style='vertical'/>
+<wall x='1' y='2' length='1' style='vertical'/>
+<wall x='1' y='1' length='1' style='vertical'/>
+<wall x='2' y='7' length='1' style='horizontal'/>
+<wall x='2' y='7' length='1' style='vertical'/>
+<wall x='2' y='3' length='1' style='vertical'/>
+<wall x='2' y='2' length='1' style='horizontal'/>
+<wall x='3' y='6' length='1' style='horizontal'/>
+<wall x='3' y='6' length='1' style='vertical'/>
+<wall x='3' y='4' length='1' style='vertical'/>
+<wall x='3' y='3' length='1' style='horizontal'/>
+<wall x='4' y='5' length='1' style='horizontal'/>
+<wall x='4' y='5' length='1' style='vertical'/>
+<wall x='4' y='4' length='1' style='horizontal'/>
+<wall x='5' y='3' length='1' style='vertical'/>
+<wall x='5' y='2' length='1' style='vertical'/>
+<wall x='5' y='1' length='1' style='vertical'/>
+<beeper x='6' y='4' num='1'/>
+<wall x='6' y='3' length='1' style='horizontal'/>
+<beeper x='7' y='4' num='1'/>
+<wall x='7' y='3' length='1' style='horizontal'/>
+<beeper x='8' y='4' num='1'/>
+<wall x='8' y='3' length='1' style='horizontal'/>
+<beeper x='9' y='4' num='1'/>
+<wall x='9' y='3' length='1' style='horizontal'/>
+<beeper x='10' y='4' num='1'/>
+<wall x='10' y='3' length='1' style='horizontal'/>
+<beeper x='11' y='4' num='1'/>
+<wall x='11' y='3' length='1' style='horizontal'/>
+<wall x='11' y='3' length='1' style='vertical'/>
+<wall x='11' y='2' length='1' style='vertical'/>
+<wall x='11' y='1' length='1' style='vertical'/>
+<wall x='13' y='22' length='1' style='vertical'/>
+<wall x='13' y='21' length='1' style='vertical'/>
+<wall x='13' y='20' length='1' style='vertical'/>
+<wall x='13' y='19' length='1' style='vertical'/>
+<wall x='13' y='18' length='1' style='vertical'/>
+<wall x='13' y='17' length='1' style='vertical'/>
+<wall x='13' y='16' length='1' style='vertical'/>
+<wall x='13' y='15' length='1' style='vertical'/>
+<wall x='13' y='14' length='1' style='vertical'/>
+<wall x='13' y='13' length='1' style='vertical'/>
+<wall x='13' y='12' length='1' style='vertical'/>
+<wall x='13' y='11' length='1' style='vertical'/>
+<wall x='13' y='10' length='1' style='vertical'/>
+<wall x='13' y='9' length='1' style='vertical'/>
+<wall x='13' y='8' length='1' style='vertical'/>
+<wall x='13' y='7' length='1' style='vertical'/>
+<wall x='13' y='6' length='1' style='vertical'/>
+<wall x='13' y='5' length='1' style='vertical'/>
+<wall x='13' y='4' length='1' style='vertical'/>
+<wall x='13' y='3' length='1' style='vertical'/>
+<wall x='13' y='2' length='1' style='vertical'/>
+<wall x='13' y='1' length='1' style='vertical'/>
+<wall x='14' y='22' length='1' style='horizontal'/>
+<wall x='14' y='22' length='1' style='vertical'/>
+<wall x='14' y='18' length='1' style='vertical'/>
+<wall x='14' y='17' length='1' style='horizontal'/>
+<wall x='15' y='21' length='1' style='horizontal'/>
+<wall x='15' y='21' length='1' style='vertical'/>
+<wall x='15' y='19' length='1' style='vertical'/>
+<wall x='15' y='18' length='1' style='horizontal'/>
+<wall x='15' y='11' length='1' style='vertical'/>
+<wall x='15' y='10' length='1' style='vertical'/>
+<wall x='15' y='9' length='1' style='vertical'/>
+<wall x='15' y='8' length='1' style='vertical'/>
+<wall x='15' y='7' length='1' style='vertical'/>
+<wall x='15' y='6' length='1' style='vertical'/>
+<wall x='15' y='5' length='1' style='vertical'/>
+<wall x='15' y='4' length='1' style='vertical'/>
+<wall x='15' y='3' length='1' style='vertical'/>
+<wall x='15' y='2' length='1' style='vertical'/>
+<wall x='15' y='1' length='1' style='vertical'/>
+<wall x='16' y='20' length='1' style='horizontal'/>
+<wall x='16' y='20' length='1' style='vertical'/>
+<wall x='16' y='19' length='1' style='horizontal'/>
+<beeper x='16' y='12' num='1'/>
+<wall x='16' y='11' length='1' style='horizontal'/>
+<beeper x='17' y='12' num='1'/>
+<wall x='17' y='11' length='1' style='horizontal'/>
+<beeper x='18' y='12' num='1'/>
+<wall x='18' y='11' length='1' style='horizontal'/>
+<beeper x='19' y='12' num='1'/>
+<wall x='19' y='11' length='1' style='horizontal'/>
+<beeper x='20' y='12' num='1'/>
+<wall x='20' y='11' length='1' style='horizontal'/>
+<wall x='20' y='11' length='1' style='vertical'/>
+<wall x='20' y='10' length='1' style='vertical'/>
+<wall x='20' y='9' length='1' style='vertical'/>
+<wall x='20' y='8' length='1' style='vertical'/>
+<wall x='20' y='2' length='1' style='vertical'/>
+<wall x='20' y='1' length='1' style='vertical'/>
+<wall x='21' y='7' length='1' style='horizontal'/>
+<wall x='21' y='7' length='1' style='vertical'/>
+<wall x='21' y='3' length='1' style='vertical'/>
+<wall x='21' y='2' length='1' style='horizontal'/>
+<wall x='22' y='6' length='1' style='horizontal'/>
+<wall x='22' y='6' length='1' style='vertical'/>
+<wall x='22' y='4' length='1' style='vertical'/>
+<wall x='22' y='3' length='1' style='horizontal'/>
+<wall x='23' y='5' length='1' style='horizontal'/>
+<wall x='23' y='5' length='1' style='vertical'/>
+<wall x='23' y='4' length='1' style='horizontal'/>
+<wall x='24' y='18' length='1' style='vertical'/>
+<wall x='24' y='17' length='1' style='vertical'/>
+<wall x='24' y='16' length='1' style='vertical'/>
+<wall x='24' y='15' length='1' style='vertical'/>
+<wall x='24' y='14' length='1' style='vertical'/>
+<wall x='24' y='13' length='1' style='vertical'/>
+<wall x='24' y='12' length='1' style='vertical'/>
+<wall x='24' y='11' length='1' style='vertical'/>
+<wall x='24' y='10' length='1' style='vertical'/>
+<wall x='24' y='9' length='1' style='vertical'/>
+<wall x='24' y='8' length='1' style='vertical'/>
+<wall x='24' y='7' length='1' style='vertical'/>
+<wall x='24' y='6' length='1' style='vertical'/>
+<wall x='24' y='5' length='1' style='vertical'/>
+<wall x='24' y='4' length='1' style='vertical'/>
+<wall x='24' y='3' length='1' style='vertical'/>
+<wall x='24' y='2' length='1' style='vertical'/>
+<wall x='24' y='1' length='1' style='vertical'/>
+<beeper x='25' y='19' num='1'/>
+<wall x='25' y='18' length='1' style='horizontal'/>
+<wall x='25' y='18' length='1' style='vertical'/>
+<wall x='25' y='17' length='1' style='vertical'/>
+<wall x='25' y='16' length='1' style='vertical'/>
+<wall x='25' y='15' length='1' style='vertical'/>
+<wall x='25' y='14' length='1' style='vertical'/>
+<wall x='25' y='13' length='1' style='vertical'/>
+<wall x='25' y='12' length='1' style='vertical'/>
+<wall x='25' y='11' length='1' style='vertical'/>
+<wall x='25' y='10' length='1' style='vertical'/>
+<wall x='25' y='9' length='1' style='vertical'/>
+<wall x='25' y='8' length='1' style='vertical'/>
+<wall x='25' y='7' length='1' style='vertical'/>
+<wall x='25' y='6' length='1' style='vertical'/>
+<wall x='25' y='5' length='1' style='vertical'/>
+<wall x='25' y='4' length='1' style='vertical'/>
+<wall x='25' y='3' length='1' style='vertical'/>
+<wall x='25' y='2' length='1' style='vertical'/>
+<wall x='25' y='1' length='1' style='vertical'/>
+</objects>
+</world>
